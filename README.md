@@ -19,7 +19,7 @@ This programs prints a multiplication table for prime numbers. The default is to
    ruby app.rb --c n
  ```
 
- ### Testing
+### Testing
 
  #### From the root of the project
  ```bash
