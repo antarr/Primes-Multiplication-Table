@@ -1,5 +1,5 @@
 module Prime
-  def self.first(n)
+  def self.take(n)
     pp = 2
     ps = [pp]
     pp += 1
