@@ -1,3 +1,4 @@
+require_relative 'prime/table'
 module Prime
   def self.take(n)
     pp = 2
