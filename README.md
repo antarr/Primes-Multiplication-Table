@@ -21,7 +21,7 @@ This programs prints a multiplication table for prime numbers. The default is to
 
 ### Testing
 
- #### From the root of the project
+#### From the root of the project
  ```bash
    bundle install
    rspec spec/
