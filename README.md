@@ -1,6 +1,7 @@
 # Primes Multiplication Table
 
 [![codebeat badge](https://codebeat.co/badges/29e2c4e4-d15e-4e20-8b5a-416c42bdf801)](https://codebeat.co/projects/github-com-atbyrd-primes-multiplication-table)
+[![Build Status](https://travis-ci.org/atbyrd/Primes-Multiplication-Table.svg?branch=master)](https://travis-ci.org/atbyrd/Primes-Multiplication-Table)
 
 ***
 
